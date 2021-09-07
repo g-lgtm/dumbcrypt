@@ -8,7 +8,7 @@ to install requiered packages:
 ```
 pip install -r requirements.txt
 ```
-*[you can install packages in a python env]*(https://docs.python.org/3/library/venv.html)
+*[you can install packages in a python env](https://docs.python.org/3/library/venv.html)*
 
 ## Use
 
