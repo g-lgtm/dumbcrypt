@@ -4,7 +4,7 @@ Dumbcrypt
 
 ## Info
 
-Dumbcrypt is a [Python](https://www.python.org/) script who can "encrypt" messages and read encrypted messages.
+Dumbcrypt is a [Python](https://www.python.org/) script who can "encrypt" messages and read encrypted messages.<br>
 More a fun idea than a real encryption script :wink:
 
 ## Install
