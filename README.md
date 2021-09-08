@@ -1,6 +1,6 @@
 Dumbcrypt
 ===
-[![Pillow 8.3.2](https://img.shields.io/badge/pillow-8.3.2-orange)](https://pypi.org/project/Pillow)  [![Apache 2.0 Licence](https://img.shields.io/hexpm/l/plug.svg)](LICENSE)
+[https://img.shields.io/badge/python-3.9-blueviolet](https://www.python.org/)  [![Pillow 8.3.2](https://img.shields.io/badge/pillow-8.3.2-orange)](https://pypi.org/project/Pillow)  [![Apache 2.0 Licence](https://img.shields.io/hexpm/l/plug.svg)](LICENSE)
 
 ## Info
 
