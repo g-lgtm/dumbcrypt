@@ -1,10 +1,10 @@
 Dumbcrypt
 ===
-[![Pillow 8.3.2](https://img.shields.io/badge/pillow-8.3.2-orange)](https://pypi.org/project/Pillow)[![Apache 2.0 Licence](https://img.shields.io/hexpm/l/plug.svg)](LICENSE)
+[![Pillow 8.3.2](https://img.shields.io/badge/pillow-8.3.2-orange)](https://pypi.org/project/Pillow)  [![Apache 2.0 Licence](https://img.shields.io/hexpm/l/plug.svg)](LICENSE)
 
 ## Info
 
-Dumbcrypt is a Python(https://www.python.org/) script who can "encrypt" messages and read encrypted messages.
+Dumbcrypt is a [Python](https://www.python.org/) script who can "encrypt" messages and read encrypted messages.
 More a fun idea than a real encryption script :wink:
 
 ## Install
