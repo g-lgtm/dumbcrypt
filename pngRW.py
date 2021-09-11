@@ -78,7 +78,8 @@ def getUserText(old = ""):
     return getUserText(old)
 
 def helpSection():
-    print("usage:", sys.argv[0], "[-h] [--output OUTPUT] [--name NAME]\n", end="\r\n")
+    print("usage:", sys.argv[0], "[-h] [--output OUTPUT] [--name NAME]", end="\r\n"*2)
+    print("\x1B[3mLaunch the program and type your secret message\x1B[0m", end="\r\n"*2)
     print("positional arguments:", end="\r\n")
     print("  -r, --read READ    \tdecrypt message in [READ] file instead", end="\r\n")
     print("                     \tof encrypting a new message", end="\r\n")
